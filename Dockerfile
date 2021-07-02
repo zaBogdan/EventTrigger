@@ -1,3 +1,3 @@
 FROM alpine:3.4
 
-CMD ['echo', 'Hello ZaBogdan! Good task.']
+CMD ['echo', 'Hello ZaBogdan! Good task. Now check backup.']
