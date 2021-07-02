@@ -1,5 +1,2 @@
-# EventTriggera
-a
-zabogdan
-test branch
+# IGNORE THIS REPOSITORY! IS FOR TESTING ONLY!
 a
