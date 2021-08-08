@@ -1,3 +1,3 @@
 FROM alpine:3.4
 
-CMD ['echo', 'Retest. Final']
+CMD ['echo', 'Microservices build Image done.']
