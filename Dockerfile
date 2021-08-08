@@ -1,3 +1,3 @@
-FROM alpine:3.4
+FROM ubuntu:18.04
 
-CMD ['echo', 'Microservices build Image done.']
+CMD ["echo", "some text"]
